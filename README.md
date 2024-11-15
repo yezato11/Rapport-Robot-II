@@ -13,6 +13,9 @@ Our study examines four dialogue robots designed to foster rapport through small
 </p>
 
 ### CommA 
+<p align="center">
+![CommA](https://github.com/user-attachments/assets/0ff6a9c3-33e2-4944-a88a-b854cf789b61)
+</p>
 <p align="justify">
 CommA demonstrates a robust ability to establish rapport by integrating proactive engagement, personalization, and frequent aizuchi responses. It effectively uses a rapport-building dialogue strategy tailored to the participant’s interests, such as Japanese players in Major League Baseball. CommA proactively explores the user's preferences by asking personalized questions, like recommending a team to watch and inquiring about favorite players. Additionally, it shares a very specific story about a friend who watched the participant's favorite player, creating a personal connection. These behaviors make the conversation flow more naturally, easier to follow, align closely with the user’s interests, and ultimately foster a higher level of rapport.
 </p>
