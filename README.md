@@ -5,8 +5,6 @@ This repository contains dialogue samples from our dialogue robots to enhance th
 
 ## Dialogue Samples
 <p align="justify">
-This repository contains dialogue samples from our dialogue robots to enhance the clarity of our paper titled "Rapport-Building Dialogue Strategies for Deeper Connection: Integrating Proactive Behavior, Personalization, and Aizuchi Backchannels," which has been submitted to INTERSPEECH 2025. We will move the data to GitHub upon acceptance.
-
 Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. The robots are as follows:  
 
 1. CSFS4o: Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels. 
