@@ -4,17 +4,21 @@ This repository contains dialogue samples from our dialogue robots to enhance th
 </p>
 
 ## Dialogue Samples
-<p align="justify">
-Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. The robots are as follows:  
+<div style="text-align: justify;">
+  <p>
+    Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. The robots are as follows:
+  </p>
 
-1. CSFS4o: Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport-building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels. 
+  <ol>
+    <li><strong>CSFS4o:</strong> Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport-building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels.</li>
 
-2. CSFS35: Implements the same frameworks as CSFS4o but with GPT-3.5 Turbo. Comparing CSFS4o and CSFS35 allows us to evaluate the impact of model differences.
+    <li><strong>CSFS35:</strong> Implements the same frameworks as CSFS4o but with GPT-3.5 Turbo. Comparing CSFS4o and CSFS35 allows us to evaluate the impact of model differences.</li>
 
-3. ORG35: Applies the original RBDS built by Baihaqi et al. [3] with GPT-3.5 Turbo, without specific strategies for proactive engagement, personalization, or Aizuchi backchannels, allowing us to evaluate whether the addition of these behaviors enhances rapport.
+    <li><strong>ORG35:</strong> Applies the original RBDS built by Baihaqi et al. [3] with GPT-3.5 Turbo, without specific strategies for proactive engagement, personalization, or Aizuchi backchannels, allowing us to evaluate whether the addition of these behaviors enhances rapport.</li>
 
-4. ORG4o: Applies the original RBDS with GPT-4o, enabling the assessment of whether improvements in dialogue quality stem from the LLM's enhanced capabilities or the inclusion of proactive engagement, personalization, and backchannels.
-</p>
+    <li><strong>ORG4o:</strong> Applies the original RBDS with GPT-4o, enabling the assessment of whether improvements in dialogue quality stem from the LLM's enhanced capabilities or the inclusion of proactive engagement, personalization, and backchannels.</li>
+  </ol>
+</div>
 
 <p align="justify">
 [3] M. Y. Baihaqi, A. Garcia Contreras, S. Kawano, and K. Yoshino, “Rapport-driven virtual agent: Rapport building dialogue strategy for improving user experience at first meeting,” in Interspeech 2024, 2024, pp. 4059–4063
