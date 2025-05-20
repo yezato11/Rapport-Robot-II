@@ -67,7 +67,7 @@ conversation.
 
 ### ORG35
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/67c43f6c-2ae0-49ce-b272-9ad6a07a6edd" alt="CommE">
+  <img src="https://github.com/user-attachments/assets/3e929137-1a73-4f1e-a4a9-472bbd2d61c8" alt="CommE">
 </p>
 <p align="justify">
 ORG35 serves as the baseline, reflecting the limitations of the original RBDS with GPT-3.5
