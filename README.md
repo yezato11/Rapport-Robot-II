@@ -11,11 +11,8 @@ This repository contains dialogue samples from our dialogue robots to enhance th
 
   <ol>
     <li><strong>CSFS4o:</strong> Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport-building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels.</li>
-
     <li><strong>CSFS35:</strong> Implements the same frameworks as CSFS4o but with GPT-3.5 Turbo. Comparing CSFS4o and CSFS35 allows us to evaluate the impact of model differences.</li>
-
     <li><strong>ORG35:</strong> Applies the original RBDS built by Baihaqi et al. [3] with GPT-3.5 Turbo, without specific strategies for proactive engagement, personalization, or Aizuchi backchannels, allowing us to evaluate whether the addition of these behaviors enhances rapport.</li>
-
     <li><strong>ORG4o:</strong> Applies the original RBDS with GPT-4o, enabling the assessment of whether improvements in dialogue quality stem from the LLM's enhanced capabilities or the inclusion of proactive engagement, personalization, and backchannels.</li>
   </ol>
 </div>
