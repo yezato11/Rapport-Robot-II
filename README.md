@@ -18,7 +18,7 @@ This repository contains dialogue samples from our dialogue robots to enhance th
 </div>
 
 <p align="justify">
-[3] M. Y. Baihaqi, A. Garcia Contreras, S. Kawano, and K. Yoshino, “Rapport-driven virtual agent: Rapport building dialogue strategy for improving user experience at first meeting,” in Interspeech 2024, 2024, pp. 4059–4063
+[3] M. Y. Baihaqi, A. Garcia Contreras, S. Kawano, and K. Yoshino, “Rapport-driven virtual agent: Rapport building dialogue strategy for improving user experience at first meeting,” in Interspeech 2024, 2024, pp. 4059–4063.
 </p>
 
 ### CSFS4o
