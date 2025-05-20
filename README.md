@@ -7,7 +7,7 @@ This repository contains dialogue samples from our dialogue robots to enhance th
 <p align="justify">
 Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. The robots are as follows:  
 
-1. CSFS4o: Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels. 
+1. CSFS4o: Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport-building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels. 
 
 2. CSFS35: Implements the same frameworks as CSFS4o but with GPT-3.5 Turbo. Comparing CSFS4o and CSFS35 allows us to evaluate the impact of model differences.
 
