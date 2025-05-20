@@ -1,11 +1,21 @@
 # Rapport-Robot-II
 <p align="justify">
-This repository contains media files that can enhance the clarity of our paper titled "Rapport-Building Dialogue Strategies for Deeper Connection: Integrating Proactive Behavior, Personalization, and Aizuchi Backchannels," submitted to INTERSPEECH 2025.
+This repository contains dialogue samples from our dialogue robots to enhance the clarity of our paper titled "Rapport-Building Dialogue Strategies for Deeper Connection: Integrating Proactive Behavior, Personalization, and Aizuchi Backchannels," which has been submitted to INTERSPEECH 2025.
 </p>
 
 ## Dialogue Samples
 <p align="justify">
-Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. CommA utilizes the CO-STAR and few-shot framework powered by GPT-4o, while CommO employs the same framework with GPT-3.5 Turbo; both emphasize proactive engagement, personalization, and a higher frequency of aizuchi. Serving as a baseline, CommE uses the previous prompt with GPT-3.5 Turbo, as described in [3], whereas CommI applies this prompt with GPT-4o. The dialogue samples for each robot are presented below.
+This repository contains dialogue samples from our dialogue robots to enhance the clarity of our paper titled "Rapport-Building Dialogue Strategies for Deeper Connection: Integrating Proactive Behavior, Personalization, and Aizuchi Backchannels," which has been submitted to INTERSPEECH 2025. We will move the data to GitHub upon acceptance.
+
+Our study examines four dialogue robots designed to foster rapport through small talk over 28 turns centered on travel destinations. The robots are as follows:  
+
+1. CSFS4o: Uses the CO-STAR and few-shot framework with GPT-4o to elicit rapport building dialogue strategy (RBDS), focusing on proactive engagement, personalization, and increased use of Aizuchi backchannels. 
+
+2. CSFS35: Implements the same frameworks as CSFS4o but with GPT-3.5 Turbo. Comparing CSFS4o and CSFS35 allows us to evaluate the impact of model differences.
+
+3. ORG35: Applies the original RBDS built by Baihaqi et al. [3] with GPT-3.5 Turbo, without specific strategies for proactive engagement, personalization, or Aizuchi backchannels, allowing us to evaluate whether the addition of these behaviors enhances rapport.
+
+4. ORG4o: Applies the original RBDS with GPT-4o, enabling the assessment of whether improvements in dialogue quality stem from the LLM's enhanced capabilities or the inclusion of proactive engagement, personalization, and backchannels.
 </p>
 
 <p align="justify">
