@@ -52,7 +52,7 @@ proactive and uses aizuchi but lacks the level of deep personalization seen in C
 
 ### ORG4o
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0a69e032-7efc-4646-9bb6-fce61847a424" alt="CommO">
+  <img src="https://github.com/user-attachments/assets/7b31db34-0ef4-4b93-a2f2-13d28c25d81a" alt="CommO">
 </p>
 <p align="justify">
 ORG4o leverages the original RBDS with the strengths of GPT-4o, offering thoughtful and
