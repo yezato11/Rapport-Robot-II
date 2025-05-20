@@ -22,7 +22,7 @@ Our study examines four dialogue robots designed to foster rapport through small
 
 ### CSFS4o
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0ff6a9c3-33e2-4944-a88a-b854cf789b61" alt="CommA">
+  <img src="https://github.com/user-attachments/assets/31b52212-be75-422d-9420-8404be98884c" alt="CommA">
 </p>
 <p align="justify">
 CSFS4o demonstrates a robust ability to establish rapport by integrating proactive engagement,
