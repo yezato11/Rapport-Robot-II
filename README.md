@@ -39,7 +39,7 @@ higher level of rapport.
 
 ### CSFS35
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9907ac48-cafc-4c1a-a6d9-60b6b2854820" alt="CommI">
+  <img src="https://github.com/user-attachments/assets/c1e712b7-e1e8-44bd-a308-ea76d477bfca" alt="CommI">
 </p>
 <p align="justify">
 CSFS35 incorporates aizuchi and proactive behavior, demonstrating the utilization of RBDS and
